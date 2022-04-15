@@ -2,11 +2,9 @@
   "name": "vercelb",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node ./dist/index.js",
-    "dev": "nodemon ./src/index.ts",
-    "build": "tsc -p ."
+    "start": "node ./dist/index.js"
   },
   "keywords": [],
   "author": "",
